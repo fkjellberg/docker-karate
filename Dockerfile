@@ -1,4 +1,4 @@
-FROM eclipse-temurin:11.0.14.1_1-jre-focal
+FROM eclipse-temurin:11.0.17_8-jre-focal
 
 ARG KARATE_VERSION="1.1.0"
 
